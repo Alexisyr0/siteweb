@@ -1,1 +1,208 @@
+ <!DOCTYPE html>
+<html lang="en">
 
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0>
+    <link rel = "stylesheet" href="css/style3.css">
+    <title>Document</title>
+</head>
+  <style type = "text/css">
+  body{
+      background: #fff;
+      width: 100%;
+      
+      }
+.first_section{
+      height: 1200px;
+      background-color: #233942;
+      width: 100%;
+}
+.first_main_container{
+      width: 100%;
+      padding: 25px;
+}
+.heading{
+      color: #FFF;
+      font-family: Cormorant;
+      font-size: 90px;
+      font-style: normal;
+      font-weight: 400;
+      line-height: normal,
+      text-transform: uppercase;
+}
+.shop_section{
+      width: 100%;
+      display: flex;
+      margin-top: 30px;
+/*    gap: 47;*/
+}
+.shop_img{
+    width: 65%;
+}
+.shop_img img{
+    width: 40%;
+    display: flex;
+    align-items: center;
+}
+.shop_describtion{
+    width: 40%;
+    display: flex;
+    align-items: center;
+}
+.describtion{
+    color: #FFF;
+    font-family: Lato,
+    font-size: 32px;
+    font-style : normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.map_secction{
+    margin-top: 30px;
+    width: 100%;
+/*    height: 406px;*/
+}
+.last_section{
+     background: #181D22;
+     width: 100%;
+}
+.contact_info_container{
+     margin-top: 100px;
+     width: 100%;
+     display: flex;
+     justify-content: spece-between;
+}
+
+.contact_info{
+      width: 47%;
+}
+.contact_form{
+    width: 47%;
+    margin-top: 20px;
+}
+.contact_heading{
+    color: #FFF;
+    font-family: Cormorant;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.about_contact{
+     margin-top: 10px;
+     color: #FFF;
+     font-family: Lato;
+     font-size: 32px;
+     font-style: normal; 
+     font-weight: 400;
+     line-height: normal;
+}
+.mail{
+     font-size: 40px;
+     margin-top: 30px;
+}
+.social_icon{
+      display: flex;
+      align-items: center;
+      marfin-top: 13px;
+}
+.left{
+      margin-left: 15px;
+      margin-top: 0px!important;
+}
+.insta a img{
+        width: 44px;
+        height: 43.716px;
+}
+.facebook a img{
+        width: 50px!important;
+}
+label{
+     color: #FFF;
+     font-family: Lato;
+     font-size: 20px;
+     font-style: normal;
+     font-weight: 400;
+     line-height: normal;
+}
+.label input, textarea{
+     margin-top: 10px;
+     width: 100%;
+     height: 34px;
+     border: none;
+     outline: none;
+     background: #F7F7F7 ;;
+}
+.label textarea{
+    height : 150px!important;
+}
+.form_btn button{
+     width: 100%;
+     height: 56px;
+     border: none;
+     outline: none;
+     backgroud: #233942;
+     color: #fff;
+     font-size: 24px;
+     cursor: pointer;
+}
+@media(max-width: 900px) {
+     .first_section{ 
+           height: 820px;
+     }
+      .heading{
+           font-size: 64px;
+           display: flex;
+           justify-content: center;
+      }
+.shop_section{
+     flex-direction: column;
+}
+
+.shop_img{
+      width: 380px;
+      height: 290px;
+}
+.shop_describtion{
+      margin-top: 30px;
+      width: 88%;
+}
+.describtion{
+      font-size: 20px;
+}
+iframe{
+      height: 96px;
+}
+.contact_info_container{
+       flex-direction: column;
+       margin-top: 0px;
+}
+.contact_info{
+      width: 100%;
+}
+.contact_heading{
+      display: flex;
+      justify-content: center;
+      font-size: 48px;
+}
+.about_contact{
+      font-size: 20px;
+}
+.mail{
+     font-size: 32px;
+}
+.insta a img{
+     width: 23px;
+     height: 21px;
+}
+.facebook a img {
+     width: 30px!impotant;
+}
+.contact_form{
+     margin-top: 50px;
+     width: 100%;
+}
+
+}
+</style>
