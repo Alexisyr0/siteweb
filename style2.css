@@ -8,5 +8,31 @@
       </a>
       <ul class="nav-menu">
         <li class="nav-item">
-          <a href="#" class="nav-link">
+          <a href="#" class="nav-link">LANDSCAPES</a>
+        <li/>
+        <li class="nav-item">
+          <a href="#" class="nav-link">ABOUT ME</a>
+        <li/>
+        <li class="nav-item">
+          <a href="#" class="nav-link">TARIF</a>
+        <li/>
+        <li class="nav-item">
+          <a href="portofolio.html" class="nav-link">PORTOFOLIO</a>
+        <li/>
+        <li class="nav-item">
+          <a href="shop.html" class="nav-link">CONTACT</a>
+        <li/>
+        <li class="nav-item">
+          <a href="shop.html" class="nav-link">BOUTIQUE</a>
+        <li/>
+    </ul>
+    <div class="hamburger">
+      <span class="bar"></span>
+      <span class="bar"></span>
+      <span class="bar"></span>
+    </div>
+  </nav>
+</header>
+
+
 
