@@ -1,6 +1,7 @@
-    background-color: #fff !important;
-    width: 100%;
-}
+body{
+       background-color: #fff !important;
+       width: 100%;
+    }
 .main_div{
   background-color: #233942;
   height: 1138px;
