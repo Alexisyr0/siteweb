@@ -52,15 +52,15 @@ body{
   width: 100%;
   margin-top: -3px;
 }
-.third_first_img imf{
+.third_first_img img{
   width: 422px;
   height: 316px;
 }  
-.third_second_img imf{
+.third_second_img img{
   width: 199px;
   height: 274px;
 }  
-.third_last_img imf{
+.third_last_img img{
   width: 477px;
   height: 694px;
 }  
@@ -144,7 +144,7 @@ body{
   text-align: end;
   margin-right: 18px;
 }
-.lover_second img{
+.lower_second img{
   display: none;
 }
 .lower_first img{
