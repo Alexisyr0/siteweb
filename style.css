@@ -1,3 +1,4 @@
+#page1 {
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital@1&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Cormorant&display=swap');
 
@@ -348,4 +349,5 @@ main {
         margin-left: 47px;
         margin-bottom: 33px;
     }
+}
 }
